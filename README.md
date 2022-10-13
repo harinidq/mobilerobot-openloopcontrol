@@ -96,9 +96,9 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 ## INITIAL POSITION:
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-10-13%2011-15-05.png![image](https://user-images.githubusercontent.com/113497680/195511722-6e467551-dd8f-49cf-9400-0734bc175a4b.png)
+![image](https://user-images.githubusercontent.com/113497680/195511722-6e467551-dd8f-49cf-9400-0734bc175a4b.png)
 ## FINAL POSITION:
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-10-13%2011-15-46.png![image](https://user-images.githubusercontent.com/113497680/195511826-052be74d-67e0-4c09-8839-aa4fea7e9df7.png)
+![image](https://user-images.githubusercontent.com/113497680/195511826-052be74d-67e0-4c09-8839-aa4fea7e9df7.png)
 
 
 
