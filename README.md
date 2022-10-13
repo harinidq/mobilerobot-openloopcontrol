@@ -31,6 +31,8 @@ Step5:
 <br/>Execute the python program and record the movements.
 
 ## Program
+Devloped by:m.d.harini
+Register no.:22001980
 ```python
 from robomaster import robot
 import time
@@ -107,7 +109,6 @@ file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-10-13%2011-15-46.
 ## MobileRobot Movement Video:
 https://youtube.com/shorts/t8nVyGZvT7w
 
-![IMAGE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 <br/>
 <br/>
