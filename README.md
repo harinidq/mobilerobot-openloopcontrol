@@ -93,10 +93,10 @@ if _name_ == '_main_':
 ```
 
 ## MobileRobot Movement Image:
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-10-13%2011-15-05.png![image](https://user-images.githubusercontent.com/113497680/195511722-6e467551-dd8f-49cf-9400-0734bc175a4b.png)
 
-![robo](./img/robomaster.png)
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-10-13%2011-15-46.png![image](https://user-images.githubusercontent.com/113497680/195511826-052be74d-67e0-4c09-8839-aa4fea7e9df7.png)
 
-Insert image here
 
 
 <br/>
@@ -106,9 +106,8 @@ Insert image here
 
 ## MobileRobot Movement Video:
 https://youtube.com/shorts/t8nVyGZvT7w
-Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+![IMAGE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 <br/>
 <br/>
